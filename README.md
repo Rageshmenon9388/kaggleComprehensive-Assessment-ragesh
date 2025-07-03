@@ -41,4 +41,4 @@ A synthetic dataset was created for this exercise. You could easily replace this
 
 
 rageshmenon9388  
-GitHub: Rageshmenon9388/kaggleComprehensive-Assessment-ragesh
+kagglenotebook link: [Rageshmenon9388/kaggleComprehensive-Assessment-ragesh](https://www.kaggle.com/code/rageshmenon/notebook06044fee5c)
